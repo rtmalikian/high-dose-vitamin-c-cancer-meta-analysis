@@ -1,0 +1,19 @@
+study_key,design_stratum,cancer,os_hr,os_ci_low,os_ci_high,os_ci_level,logHR,se_logHR,pfs_hr,pfs_ci_low,pfs_ci_high,os_median_vitc,os_median_control,included_in_primary_pool
+CREAGAN1979,RCT double-blind,Mixed advanced cancer,,,,,,,,,,,,no
+MOERTEL1985,RCT double-blind,Colorectal cancer,,,,,,,NR,NR,NR,,,no
+PATHAK2005,RCT,NSCLC,,,,,,,NR,NR,NR,11,9,no
+MA2014,"RCT phase I/IIa (randomised, treatment unblinded, no placebo)",Ovarian cancer,,,,,,,NR,NR,NR,,,no
+OU2020,RCT phase II,NSCLC,0.3268,0.1582,0.4105,95,-1.1184,0.2432,0.3294,0.1222,0.3166,9.4,5.6,yes
+MANSOOR2021,RCT single-blind,Breast cancer,,,,,,,NR,NR,NR,,,no
+VITALITY2022,RCT phase 3 open-label multicentre,Colorectal cancer,1.04,0.81,1.33,95,0.0392,0.1265,0.86,0.70,1.05,20.7,19.7,yes
+VANGORKOM2022,RCT triple-blind placebo-controlled,Multiple myeloma / lymphoma (autologous HSCT),,,,,,,NR,NR,NR,,,no
+BODEKER2024,RCT phase II unblinded,Pancreatic ductal adenocarcinoma,0.46,0.23,0.92,90,-0.7765,0.4214,0.43,0.20,0.92,16,8.3,yes
+PALLER2024,RCT phase II double-blind placebo-controlled,Prostate cancer (mCRPC),1.98,0.85,4.58,95,0.6831,0.4297,1.35,0.66,2.75,15.2,29.5,yes
+ZHAO2018,"Comparative clinical study (listed as RCT in Review 5 inclusion lists; randomisation NR in source read, PubMed type Evaluation Study)",Acute myeloid leukaemia (elderly),,,,,,,NR,NR,NR,15.3,9.3,no
+CAMERON1976,Non-randomised historical-control cohort,Mixed terminal cancer,,,,,,,NR,NR,NR,,,no
+CAMERON1991,"Non-randomised databank cohort (historical comparison, labelled RCT by Qu 2025 - incorrect)",Mixed incurable cancer,,,,,,,NR,NR,NR,11.3,5.9,no
+VOLLBRACHT2011,Retrospective multicentre cohort,Breast cancer,,,,,,,NR,NR,NR,,,no
+OU2020_TNBC,Retrospective matched cohort,Triple-negative breast cancer,,,,,,,NR,NR,NR,27,18,no
+OU2023_NSCLC,Retrospective cohort (with cell-line biomarker study),NSCLC,,,,,,,NR,NR,NR,,,no
+SIMMONS2024,Prospective phase II with propensity-matched historical controls (cohort),"Haematologic malignancies (AML/ALL/CML/MDS, allo-HSCT)",0.5,0.2,1.0,95,-0.6931,0.4106,NR,NR,NR,,,no
+LEE2026_KOREA,Prospective cohort (time-dependent exposure),Breast cancer (palliative care),0.561,0.319,0.986,95,-0.578,0.2879,NR,NR,NR,,,no
