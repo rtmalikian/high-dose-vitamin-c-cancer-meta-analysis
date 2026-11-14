@@ -1,5 +1,7 @@
 # 📄 Download the full article — PDF
 [![Download PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge)](https://github.com/rtmalikian/high-dose-vitamin-c-cancer-meta-analysis/raw/main/manuscript.pdf)
+
+**📖 Read the paper in your browser (PDF embedded): https://rtmalikian.github.io/high-dose-vitamin-c-cancer-meta-analysis/**
 **Click here to download the PDF:** [manuscript.pdf](https://github.com/rtmalikian/high-dose-vitamin-c-cancer-meta-analysis/raw/main/manuscript.pdf)
 One click — no sign-up, no paywall.
 
